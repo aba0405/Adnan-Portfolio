@@ -113,8 +113,8 @@ function App() {
       />
       <Box sx={{ bgcolor: 'background.default' }}>
         <Profile
-          name="Joe DeFilippo"
-          role="Founder"
+          name="Adnan Abdal"
+          role="QA Analyst"
           githubUrl="https://github.com/joedefilippo"
         />
         <About

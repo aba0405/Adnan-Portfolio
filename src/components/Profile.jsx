@@ -1,6 +1,6 @@
 import {Box, Button, Typography} from '@mui/material';
 import PropTypes from 'prop-types';
-import ProfileHeadshot from './ProfileHeadshot';
+//import ProfileHeadshot from './ProfileHeadshot';
 import './Profile.css'
 export default function Profile({name, role, githubUrl}) {
     return (
